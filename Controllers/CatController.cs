@@ -23,7 +23,7 @@ namespace firstProjectWebApi.Controllers
          {
             //your code is here
             //here how to add new cat
-            cats.Add(new Cat());
+            // cats.Add(new Cat("b2"));
             return cats;
          }
         // 
@@ -32,7 +32,8 @@ namespace firstProjectWebApi.Controllers
         [HttpPost]
         public Cat Insert([FromBody]Cat cat)
         {
-            cats.Add(new Cat());
+            cats.Add(cat);
+            // cats.Add(cat);
             //your code is here
             return cat;
         }
@@ -49,6 +50,7 @@ namespace firstProjectWebApi.Controllers
         public void Delete(string name)
         {
             //your code is here
+
         }
 
 
