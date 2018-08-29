@@ -40,9 +40,15 @@ namespace firstProjectWebApi.Controllers
 
         // PUT api/cat/name
         [HttpPut("{name}")]
-        public void Put(string name, [FromBody] Cat cat)
+        public Cat Put(string name, [FromBody] Cat cat)
         {
             //your code is here
+            for (int i = 0; i < cats.Count; i++)
+            {
+                if (cats[i].name==name)
+                    cats[i] = cat;
+            };
+            return cat;
         }
         // DELETE api/cat/1
 
