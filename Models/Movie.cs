@@ -1,8 +1,11 @@
 namespace firstProjectWebApi.Models
 {
-    public class Cat
+    public class Movie
     {
         //your code is here
-        public string name = "bs_bos_1";
+        public int Id ;
+        public string Title;
+
+
     }
 }

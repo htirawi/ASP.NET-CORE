@@ -15,7 +15,7 @@ namespace myFirstProject
         public static void Main(string[] args)
         {
             //your code is here
-            Console.WriteLine("Hello Cats");
+            Console.WriteLine("////// Hello Cats World in c# //////");
             
             CreateWebHostBuilder(args).Build().Run();
         }
