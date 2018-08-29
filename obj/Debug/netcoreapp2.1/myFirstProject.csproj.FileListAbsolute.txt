@@ -1,0 +1,14 @@
+C:\Users\Hussein\Desktop\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.deps.json
+C:\Users\Hussein\Desktop\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.runtimeconfig.json
+C:\Users\Hussein\Desktop\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.runtimeconfig.dev.json
+C:\Users\Hussein\Desktop\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.dll
+C:\Users\Hussein\Desktop\ASP.NET-CORE\bin\Debug\netcoreapp2.1\myFirstProject.pdb
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.csprojAssemblyReference.cache
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.RazorAssemblyInfo.cache
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.RazorAssemblyInfo.cs
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.AssemblyInfoInputs.cache
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.AssemblyInfo.cs
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.dll
+C:\Users\Hussein\Desktop\ASP.NET-CORE\obj\Debug\netcoreapp2.1\myFirstProject.pdb
