@@ -56,9 +56,11 @@ namespace firstProjectWebApi.Controllers
         public void Delete(string name)
         {
             //your code is here
-
+            for (int i = 0; i < cats.Count; i++)
+            {
+                if (cats[i].name == name)
+                    cats.Remove(cats[i]);
+            };
         }
-
-
     }
 }
